@@ -1,4 +1,4 @@
-!['image'](https://github.com/parnia-alipour/python/blob/master/ChatGPT%20Image%20Oct%2025,%202025,%2008_02_50%20PM.png?raw=true)
+!['image'](https://github.com/parnia-alipour/python/blob/master/image.png?raw=true)
 
 # Python: A Language of Simplicity and Global Impact🐍
 
