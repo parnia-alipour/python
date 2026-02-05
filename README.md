@@ -3,7 +3,7 @@ Code for a lottery/draw===[Lottery.py](https://github.com/parnia-alipour/python/
 
 Calculator code ====[Mathematics.py](https://github.com/parnia-alipour/python/blob/master/Mathematics.py)
 
-Code  to convert a Persian (Solar Hijri) year to a Gregorian year===[date_converter.py](https://github.com/parnia-alipour/python/blob/master/date_converter.py)
+Code for converting a Persian (Solar Hijri) year to Gregorian written using a Tkinter form ===[date_converter.py](https://github.com/parnia-alipour/python/blob/master/date_converter.py)
 
 Code  to check whether a user’s password matches the password registered with their email address===[welcome!.py](https://github.com/parnia-alipour/python/blob/master/welcome!.py)
 
